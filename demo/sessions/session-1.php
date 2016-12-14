@@ -45,6 +45,5 @@ if ($name and $age) {
 }
 ?>
 
-
 </body>
 </html>
