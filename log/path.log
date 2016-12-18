@@ -1,0 +1,15 @@
+17-12-2016 16:23:52 | /index.php?id=info | http://mysite2.local/index.php?id=gbook
+17-12-2016 16:23:54 | /index.php?id=about | http://mysite2.local/index.php?id=info
+17-12-2016 16:23:56 | /index.php?id=contact | http://mysite2.local/index.php?id=about
+17-12-2016 16:23:57 | /index.php | http://mysite2.local/index.php?id=contact
+17-12-2016 16:24:00 | /index.php?id=gbook | http://mysite2.local/index.php
+17-12-2016 16:36:10 | /index.php?id=gbook | http://mysite2.local/index.php
+17-12-2016 16:36:12 | /index.php | http://mysite2.local/index.php?id=gbook
+17-12-2016 16:36:14 | /index.php?id=info | http://mysite2.local/index.php
+17-12-2016 16:36:15 | /index.php?id=about | http://mysite2.local/index.php?id=info
+17-12-2016 16:36:17 | /index.php?id=log | http://mysite2.local/index.php?id=about
+17-12-2016 16:37:19 | /index.php?id=about | http://mysite2.local/index.php?id=info
+17-12-2016 16:37:22 | /index.php?id=about | http://mysite2.local/index.php?id=about
+17-12-2016 16:37:23 | /index.php | http://mysite2.local/index.php?id=about
+17-12-2016 16:37:25 | /index.php?id=contact | http://mysite2.local/index.php
+17-12-2016 16:37:26 | /index.php?id=log | http://mysite2.local/index.php?id=contact
