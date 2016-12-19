@@ -4,6 +4,7 @@
 
 	define('PATH_LOG', 'path.log');
 	include 'inc/log.inc.php';
+	
 ?>
 <!DOCTYPE html>
 <html>
